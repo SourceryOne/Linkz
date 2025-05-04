@@ -4,6 +4,7 @@ Here is my take on the Mutable Instruments Links. Linkz is a throughhole two pcb
 
 You can find this module in my Tindie store along with previous modules: https://www.tindie.com/stores/Sourcery/
 
-The full video about this module: 
+The video about this module: 
 
 Soldering video in real time if you want to solder it together with "me": 
+https://youtu.be/aWEnfPT67ys
